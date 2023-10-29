@@ -39,4 +39,20 @@ export const Platos = [
         description: 'El ajiaco  es una sopa típica de Colombia. Contiene pollo en presas o desmenuzado, papa criolla, pastusa y sabanera, mazorca de maíz y opcionalmente alcaparras y crema de leche',
         image: './assets/ajiaco.webp'
     },
+    {
+        id: 6,
+        name: 'Tamal',
+        category: 'Tipicos colombianos',
+        price: 30.000,
+        description: 'El tamal es un alimento mexicano hecho a base de maíz, relleno de diversos ingredientes, cocido en un paquete de hojas vegetales que lo mismo pueden ser de milpa o de maíz, plátano, carrizo, chilaca o papatla',
+        image: './assets/tamal.jpg'
+    },
+    {
+        id: 7,
+        name: 'Lechona',
+        category: 'Tipicos colombianos',
+        price: 30.000,
+        description: 'La lechona es un plato típico de la región Colombiana del Tolima y Huila. Este plato fuerte está compuesto por carne de cerdo, y arvejas principalmente.',
+        image: './assets/lechona.jpg'
+    },
 ]
